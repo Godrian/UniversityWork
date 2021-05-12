@@ -1,2 +1,2 @@
 # UniversityWork
-Set of some of my work that was done during my university course 
+Here are some of my works that were done during my university course 
