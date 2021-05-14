@@ -15,7 +15,7 @@ This first task involves using Linear Regression to fit a predictive regression 
 
 ## Task 3.2 – Principle Component Analysis with sklearn
 The second task is to use Principal Component Analysis to reduce the dimensionality of the Wine Dataset. Overall, what was done is: divide the dataset into a training and  testing set, utilise a <b>sklearn.decomposition.PCA</b> object to reduce the dimensionality to two principle components,and then visualise the data in the new principle component space. 
-<ol>
+<ul>
   <li>Load <i>wineData.npy</i> and <i>wineLabels.npy</i>, inspect the data, and visualise it.</li>
   <li>Divide the data and labels into two sets: training and testing. Use slicing here to select some proportion of the data and assign them into two separate variables <i>train_data</i> and <i>test_data</i>. Use the same indices to slice your labels and create train labels test labels, make sure that the data and labels still match.  A common split in literatureis 80% training to 20% testing.</li>
   <li>Produce a scatter plot which shows your train: test split. Remember to colour them based on their respective labels. Plot feature 0 against feature 1.</li>
@@ -35,7 +35,7 @@ The third task is to use Linear Discriminant Analysis to reduce the dimensionali
   <li>Apply the dimensionality reduction transform to the training data.</li>
   <li>Apply the dimensionality reduction transform to the testing data.</li>
   <li>Visualise the reduced-dimensionality training and testing data, using a scatter plot.  Don’t forget to use different markers for the two sets, and to colour the markers based on the labels.
-
+</ul>
 
 ## Task 3.4 – Principal Component Analysis by hand
 
@@ -45,7 +45,7 @@ The fourth task is to implement Principal Component Analysis by hand. I performe
   <li>Calculate the Singular Value Decomposition of the mean-centred training data. This can be donr with <i>numpy.linalg.svd()</i>, which returns the variables <b>u,s</b> and <b>vh</b>.</li>
   <li>Project your data into a 2-dimensional Principle Component space.</li>
   <li>Visualise your projected training and testing data with a scatter plot.</li>
-
+</ul>
 
 
 
