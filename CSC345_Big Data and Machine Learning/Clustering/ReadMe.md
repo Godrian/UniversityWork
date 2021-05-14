@@ -34,3 +34,4 @@ The third task is to cluster my Fisher Iris data with a GMM. For this task, I im
   <li>Produce a scatter plot for each component of the GMM model. Within each scatterplot, plot the component’s posterior probabilities as the color intensity for each sample.This should result in g different plots.</li>
   <li>Go back and tweak your GaussianMixture model. Re-run cells to see if it improves.</li>
   
+Files "Iris_data.npy", "Iris_labels.npy" and "ClusteringFromScratch.ipynb" were provided by lecturer Prof. Xianghua Xie
