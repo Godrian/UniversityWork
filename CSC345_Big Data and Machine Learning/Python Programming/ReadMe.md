@@ -18,11 +18,11 @@ This task is about list structures, dictionaries, loops and conditionals within 
   <li>Write a loop which prints elements of a list, <i>myListto</i> the command line in reverse.</li>
   <li>Define  the  function <i>equals100(x)  = True if x = 100, else False </i> and call it from "MyNotebook.ipynb".</li>
   <li>Create a dictionary, <i>myDictionary</i>, which recreates the following information:
-    <ol>
+    <ul>
       <li>dataname= “myData”</li>
       <li>data= [“cat”, “dog”, “fish”]</li>
-      <li>labels = a list of 3 numbers.<li>
-    </ol></li>
+      <li>labels = a list of 3 numbers.</li>
+    </ul></li>
   <li>Print out the contents of each key from <i>myDictionary</i>.</li>
 </ol>
   
