@@ -19,7 +19,7 @@ Write rules in Prolog for aninteractive expert which does a consultation in rela
   <li>You may be infected if you went to a large party and a person at the party tested positive.</li>
   <li>You may not be immune if you are not vaccinated or you have not previously been ill with coronavirus.</li>
   <li>You should get tested if you may be infected and youmay not be immuneand you have symptoms.</li>
-<//ol>
+</ol>
 
 Do the following:
 <ul>
